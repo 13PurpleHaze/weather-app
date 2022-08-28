@@ -4,7 +4,7 @@ import axios from "axios";
 
 export  default createStore({
     state: {
-        apiKey: "4ac06ed218af8c9e671ffe310ae723bc",
+        apiKey: "YOUR_API_KEY",
         week: ['sun', 'mon', 'tue', 'wed', 'thurs', 'fri', 'sat'],
         modalData: '',
         city: {name: 'Moscow', lat: 55.751244 , lon: 37.618423},
