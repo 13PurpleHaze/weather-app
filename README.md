@@ -2,6 +2,10 @@
 
 Weather app based on Open Weather Map API and Vue.js and Vuex
 
+![screenshort](https://user-images.githubusercontent.com/102962775/187088215-a551fd87-6f31-42ca-b4ba-ff7ca61d6e6f.jpg)
+![wa-2](https://user-images.githubusercontent.com/102962775/187087797-b91754d1-122b-4227-81ac-2bd0bee3651e.gif)
+![wa-1](https://user-images.githubusercontent.com/102962775/187087894-e054c9e2-6768-4b09-afcf-52488e884ba6.gif)
+
 ## Features
 
 * Searching for a new city
